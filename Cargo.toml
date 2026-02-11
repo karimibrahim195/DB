@@ -1,8 +1,0 @@
-[package]
-name = "whatsapp-sender"
-version = "1.0.0"
-edition = "2021"
-authors = ["Kareem Ali <kareemaliii72@gmail.com>"]
-description = "WhatsApp bulk message sender - Generate ready-to-send links"
-
-[dependencies]
