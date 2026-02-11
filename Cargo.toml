@@ -1,0 +1,8 @@
+[package]
+name = "water-reminder"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+notify-rust = "4.10.0"
+chrono = "0.4.35"
